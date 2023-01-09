@@ -1,5 +1,4 @@
-# Proyecto-Final-DTS--05
-Grupo 13 - E-commerce Olist
+# Proyecto-Final-DTS--0
 
 
 # Proyecto Grupal: E-commerce Olist  
