@@ -7,10 +7,10 @@
 # <h2 align=center>**Data Engineering - Machine Learning - Data Analyst**</h2>
 
 <p align="center">
-<img src="https://www.palermo.edu/Archivos_content/2021/negocios/julio/data/datascience-640.jpg"  height=300>
-</p>
-
    
+<img src="https://www.palermo.edu/Archivos_content/2021/negocios/julio/data/datascience-640.jpg"  height=300>
+
+</p>
 
 <hr>  
 
