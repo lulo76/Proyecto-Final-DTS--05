@@ -86,8 +86,7 @@ objetivos “locales” para cumplirlos en tiempo y forma.
 Esta planificación se divisieron en etapas las cuales detallamos a continuación:
 
 ***ETAPA 1: Ingeniería de datos.***
-
-En esta etapa como primer paso se procederá a realizar una Proceso ETL, donde extraeremos los datos necesarios, los transformaremos
+</p>En esta etapa como primer paso se procederá a realizar una Proceso ETL, donde extraeremos los datos necesarios, los transformaremos
 y cargaremos en una base de datos conservando las relaciones entre las tablas. En un segundo momento procederemos a realizar un análisis
 EDA, en el que nos enfocaremos en la normalización de los mismos, la limpieza de los datos, detectar posibles outliers, valores faltantes
 y demás errores a modificar.
@@ -98,8 +97,7 @@ que permitan un mejor análisis.
 
 
 ***ETAPA 3:  Data Analyst.***
-
-En esta etapa se desarrollara el análisis de los datos. Esto implica entender la situación, medir los KPI's establecidos y armar las
+</p>En esta etapa se desarrollara el análisis de los datos. Esto implica entender la situación, medir los KPI's establecidos y armar las
 conclusiones preliminares resultado del análisis.
 Se utilizarán herramientas de visualización con el fin de provocar un impacto visual con la información obtenida que permita comunicar
 de una manera simple los resultados.
@@ -110,8 +108,7 @@ Para esta etapa se realizarán (no limitado a) las siguientes tareas:
   + Armado de storytelling.
 
 ***Etapa 4: Conclusiones.***
-
-Se procederá a la presentación de conclusiones y sugerencias por parte del equipo externo.
+</p>Se procederá a la presentación de conclusiones y sugerencias por parte del equipo externo.
 
 
 **Metodología de trabajo.**
