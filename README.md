@@ -85,7 +85,7 @@ Para lograr esto, se planificarán las  tareas por semana de trabajo y cada una 
 objetivos “locales” para cumplirlos en tiempo y forma.
 Esta planificación se divisieron en etapas las cuales detallamos a continuación:
 
-***ETAPA 1: Ingeniería de datos.***</p>En esta etapa como primer paso se procederá a realizar una Proceso ETL, donde extraeremos los datos necesarios, los transformaremos
+***ETAPA 1: Data Engineering.***</p>En esta etapa como primer paso se procederá a realizar una Proceso ETL, donde extraeremos los datos necesarios, los transformaremos
 y cargaremos en una base de datos conservando las relaciones entre las tablas. En un segundo momento procederemos a realizar un análisis
 EDA, en el que nos enfocaremos en la normalización de los mismos, la limpieza de los datos, detectar posibles outliers, valores faltantes
 y demás errores a modificar.
@@ -93,7 +93,17 @@ De esta manera buscaremos que los datos queden disponibles para los próximos pa
 que permitan un mejor análisis.
 
 
-***ETAPA 2: Machine Learning.***
+***ETAPA 2: Machine Learning.***</p>En esta etapa se desarrollará un sistema de análisis de sentimientos para analizar las reviews con el fin de identificar el grado
+de satisfacción del cliente final. En segunda instancia se realizará un análisis predictivo de series de tiempo con el fin de
+analizar y proyectar las ventas de la empresa. La implementación de estos sistemas estará basada en diferentes modelos, tanto de Machine Learning
+clásico, así como de Deep Learning.
+Los pasos a seguir en este proceso son los siguientes:
+ + Feature Engineering.
+ + Implementación de modelos y pipelines.
+ + Evaluación de modelos.
+ + Selección de modelos.
+ + Despliegue de modelos a producción.
+
 
 
 ***ETAPA 3: Data Analyst.***</p>En esta etapa se desarrollara el análisis de los datos. Esto implica entender la situación, medir los KPI's establecidos y armar las
