@@ -131,8 +131,8 @@ total del proyecto será de 4 semanas. Siendo la última exclusivamente para pre
 Se realizan reuniones diarias (guiadas por un Scrum Master) con el objetivo de conocer a todos los participantes del proyecto, dividiendo,
 organizando trabajo y tiempos por cada integrante y así garantizar que las tareas se finalicen a tiempo y de manera correcta.
 
-***El cronograma tentativo previsto es (insertar diagrama de grant)***
-<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png>
+***El cronograma tentativo previsto es:***
+<p align=center><img src=[https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png](https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Gantt.jpg?raw=true)>
 
 ## **Stack tecnológico.**
 
