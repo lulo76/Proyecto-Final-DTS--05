@@ -2,11 +2,11 @@
 
 # <h1 align=center> **PROYECTO FINAL GRUPAL** </h1>
 
-# <h1 align=center> **Karen Uzcategui Briceño
-Joaquin Dos Santos
-Hector Herrera Espinola
-Armando Madrigal Lucatero
-Lucas Wayar** </h1>
+# <h1 align=center> ***Karen Uzcategui Briceño***
+# <h1 align=center> ***Joaquin Dos Santos***
+# <h1 align=center> ***Hector Herrera Espinola***
+# <h1 align=center> ***Armando Madrigal Lucatero***
+# <h1 align=center> ***Lucas Wayar*** </h1>
 
 # <h1 align=center>**`Data Engineering - Machine Learning - Data Analyst`**</h1>
 
