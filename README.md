@@ -163,10 +163,6 @@ seguimiento de ese progreso utilizando el diagrama. El proyecto esta sujeto a un
  + Disponibilizar los datos  para consulta en un tablero en tiempo real que consuma los datos a través de una api de forma automatizada.
    Con esto buscamos que se brinde la información que el cliente necesite consultar en el momento
 
-***Los productos entregables serán XXXX en las fechas/etapas***
-
-
-
 ## **Equipo de trabajo.**
 
 ***Roles y responsabilidades.***
