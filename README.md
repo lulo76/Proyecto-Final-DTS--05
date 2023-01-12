@@ -86,6 +86,7 @@ objetivos “locales” para cumplirlos en tiempo y forma.
 Esta planificación se divisieron en etapas las cuales detallamos a continuación:
 
 ***ETAPA 1: Ingeniería de datos.***
+
 En esta etapa como primer paso se procederá a realizar una Proceso ETL, donde extraeremos los datos necesarios, los transformaremos
 y cargaremos en una base de datos conservando las relaciones entre las tablas. En un segundo momento procederemos a realizar un análisis
 EDA, en el que nos enfocaremos en la normalización de los mismos, la limpieza de los datos, detectar posibles outliers, valores faltantes
