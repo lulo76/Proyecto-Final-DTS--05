@@ -93,7 +93,17 @@ De esta manera buscaremos que los datos queden disponibles para los próximos pa
 que permitan un mejor análisis.
 
 
-***ETAPA 2: Machine Learning.***
+***ETAPA 2: Machine Learning.***</p>En esta etapa se desarrollará un sistema de análisis de sentimientos para analizar las reviews con el fin de identificar el grado
+de satisfacción del cliente final. En segunda instancia se realizará un análisis predictivo de series de tiempo con el fin de
+analizar y proyectar las ventas de la empresa. La implementación de estos sistemas estará basada en diferentes modelos, tanto de Machine Learning
+clásico, así como de Deep Learning.
+Los pasos a seguir en este proceso son los siguientes:
+ + Feature Engineering.
+ + Implementación de modelos y pipelines.
+ + Evaluación de modelos.
+ + Selección de modelos.
+ + Despliegue de modelos a producción.
+
 
 
 ***ETAPA 3: Data Analyst.***</p>En esta etapa se desarrollara el análisis de los datos. Esto implica entender la situación, medir los KPI's establecidos y armar las
