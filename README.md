@@ -133,7 +133,7 @@ organizando trabajo y tiempos por cada integrante y así garantizar que las tare
 
 ***El cronograma tentativo previsto es:***
 
-<img src="https://raw.githubusercontent.com/lulo76/Proyecto-Final-DTS--05/main/Assets/Gantt.jpg"  height=300>
+<p align=center><img src="https://raw.githubusercontent.com/lulo76/Proyecto-Final-DTS--05/main/Assets/Gantt.jpg"  height=300>
 
 ## **Stack tecnológico.**
 
