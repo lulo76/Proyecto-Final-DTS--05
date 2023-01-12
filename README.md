@@ -122,7 +122,7 @@ Se realizan reuniones diarias (guiadas por un Scrum Master) con el objetivo de c
 organizando trabajo y tiempos por cada integrante y así garantizar que las tareas se finalicen a tiempo y de manera correcta.
 
 ***El cronograma tentativo previsto es (insertar diagrama de grant)***
-
+<p align=center><img src=https://d31uz8lwfmyn8g.cloudfront.net/Assets/logo-henry-white-lg.png>
 
 ## **Stack tecnológico.**
 
