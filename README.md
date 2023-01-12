@@ -59,7 +59,7 @@ Estos objetivos son:
     con las ideas de mejora que se plantearán (resultado del análisis).
  
 
-## **Objetivos y KPIs asociados.**
+## **Objetivos y KPI's asociados.**
 
 La definición de KPIs está basada en los objetivos propuestos anteriormente. Con esto evaluaremos cual es la situación de Olist en el
 mercado para que, con nuestro conocimientos del sector detectar oportunidades de mejora que sirvan principalmente, para reducir los
