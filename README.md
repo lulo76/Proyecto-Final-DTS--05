@@ -133,6 +133,9 @@ organizando trabajo y tiempos por cada integrante y así garantizar que las tare
 
 ***El cronograma tentativo previsto es:***
 
+El siguiente diagrama de Gantt describe el ciclo completo del proyecto. Se espera que todos los miembros del equipo realicen un
+seguimiento de ese progreso utilizando el diagrama. El proyecto esta sujeto a un ciclo de 19 días.
+
 <p align=center><img src="https://raw.githubusercontent.com/lulo76/Proyecto-Final-DTS--05/main/Assets/Gantt.jpg"  height=300>
 
 ## **Stack tecnológico.**
