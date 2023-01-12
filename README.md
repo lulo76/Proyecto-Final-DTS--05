@@ -85,9 +85,7 @@ Para lograr esto, se planificarán las  tareas por semana de trabajo y cada una 
 objetivos “locales” para cumplirlos en tiempo y forma.
 Esta planificación se divisieron en etapas las cuales detallamos a continuación:
 
-***ETAPA 1: Ingeniería de datos.***
-
-En esta etapa como primer paso se procederá a realizar una Proceso ETL, donde extraeremos los datos necesarios, los transformaremos
+***ETAPA 1: Ingeniería de datos.***</p>En esta etapa como primer paso se procederá a realizar una Proceso ETL, donde extraeremos los datos necesarios, los transformaremos
 y cargaremos en una base de datos conservando las relaciones entre las tablas. En un segundo momento procederemos a realizar un análisis
 EDA, en el que nos enfocaremos en la normalización de los mismos, la limpieza de los datos, detectar posibles outliers, valores faltantes
 y demás errores a modificar.
@@ -98,9 +96,7 @@ que permitan un mejor análisis.
 ***ETAPA 2: Machine Learning.***
 
 
-***ETAPA 3: Data Analyst.***
-
-En esta etapa se desarrollara el análisis de los datos. Esto implica entender la situación, medir los KPI's establecidos y armar las
+***ETAPA 3: Data Analyst.***</p>En esta etapa se desarrollara el análisis de los datos. Esto implica entender la situación, medir los KPI's establecidos y armar las
 conclusiones preliminares resultado del análisis.
 Se utilizarán herramientas de visualización con el fin de provocar un impacto visual con la información obtenida que permita comunicar
 de una manera simple los resultados.
@@ -111,12 +107,10 @@ Para esta etapa se realizarán (no limitado a) las siguientes tareas:
   + Armado de storytelling.
 
 
-***Etapa 4: Conclusiones.***
-
-Se procederá a la presentación de conclusiones y sugerencias por parte del equipo externo.
+***Etapa 4: Conclusiones.***</p>Se procederá a la presentación de conclusiones y sugerencias por parte del equipo externo.
 
 
-##**Metodología de trabajo.**
+## **Metodología de trabajo.**
 
 La metodología de gestión de proyecto utilizada se cree muy importante para llegar a los objetivos propuestos. Se utilizará metodología
 considerada ágil al ser colaborativa, rápida y efectiva, iterativa, respaldada por datos y fundamentalmente que se valore a las personas
@@ -130,7 +124,7 @@ organizando trabajo y tiempos por cada integrante y así garantizar que las tare
 ***El cronograma tentativo previsto es (insertar diagrama de grant)***
 
 
-##**Stack tecnológico.**
+## **Stack tecnológico.**
 
  + Python.
  + Pandas.
@@ -143,7 +137,7 @@ organizando trabajo y tiempos por cada integrante y así garantizar que las tare
  + Github
  + Trello
 
-##**Entregables**
+## **Entregables**
 
 ***Diseño detallado***
 
@@ -155,11 +149,11 @@ organizando trabajo y tiempos por cada integrante y así garantizar que las tare
  + Disponibilizar los datos  para consulta en un tablero en tiempo real que consuma los datos a través de una api de forma automatizada.
    Con esto buscamos que se brinde la información que el cliente necesite consultar en el momento
 
-##**Los productos entregables serán XXXX en las fechas/etapas**
+***Los productos entregables serán XXXX en las fechas/etapas***
 
 
 
-##**Equipo de trabajo.**
+## **Equipo de trabajo.**
 
 ***Roles y responsabilidades.***
 
