@@ -163,5 +163,5 @@ organizando trabajo y tiempos por cada integrante y así garantizar que las tare
  + Karen Francelia Uzcategui Briceño -Data Analyst
  + Hector Javier Herrera Espínola - Data Analyst
 
-*** + Cabe destacar que el cumplimiento de los roles no está sujeta únicamente al tipo de perfil establecido, sino que cada integrante
-podrá brindar soporte en diversas áreas y/o tareas durante todo el proceso. ***
+***+ Cabe destacar que el cumplimiento de los roles no está sujeta únicamente al tipo de perfil establecido, sino que cada integrante
+podrá brindar soporte en diversas áreas y/o tareas durante todo el proceso.***
