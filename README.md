@@ -4,7 +4,7 @@
 
 # <h2 align=center>***Karen Uzcategui Briceño - Joaquin Dos Santos - Hector Herrera Espinola -</p> Armando Madrigal Lucatero - Lucas Wayar*** </h2>
 
-# <h2 align=center> ** Data Engineering - Machine Learning - Data Analyst ** </h2>
+# <h2 align=center>**Data Engineering - Machine Learning - Data Analyst**</h2>
 
 <p align="center">
 <img src="https://www.palermo.edu/Archivos_content/2021/negocios/julio/data/datascience-640.jpg"  height=300>
