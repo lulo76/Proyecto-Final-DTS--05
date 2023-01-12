@@ -2,7 +2,7 @@
 
 # <h1 align=center> **PROYECTO FINAL GRUPAL** </h1>
 
-***Karen Uzcategui Briceño - Joaquin Dos Santos - Hector Herrera Espinola - Armando Madrigal Lucatero - Lucas Wayar*** </h1>
+# <h1 align=center>***Karen Uzcategui Briceño - Joaquin Dos Santos - Hector Herrera Espinola - Armando Madrigal Lucatero - Lucas Wayar*** </h1>
 
 # <h1 align=center>**`Data Engineering - Machine Learning - Data Analyst`**</h1>
 
