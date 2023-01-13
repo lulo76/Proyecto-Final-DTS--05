@@ -175,3 +175,12 @@ seguimiento de ese progreso utilizando el diagrama. El proyecto esta sujeto a un
 
 ***+ Cabe destacar que el cumplimiento de los roles no está sujeta únicamente al tipo de perfil establecido, sino que cada integrante
 podrá brindar soporte en diversas áreas y/o tareas durante todo el proceso.***
+   
+   
+   
+***Análisis preliminar de calidad de datos***
+
+
+Para análisis preliminar de los datos en relación a la problemática decidimos utilizar como fuente principal los datasets provistos. Para un análisis más detallado en el anexo “Análisis preliminar” encontrarán información más precisa de los tipos de datos que utilizaremos como insumo principal, el estado en el que nos llegan y posibles modificaciones rápidas. Sin embargo no descartamos ampliar a futuro con información complementaria para enriquecer el análisis posterior y cubrir demandas del cliente. 
+
+El Diagrama Entidad-Relación está disponible en este  [Diagrama Entidad-Relación](https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Diagrama%20ER.jpg)
