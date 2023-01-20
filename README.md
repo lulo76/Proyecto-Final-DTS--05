@@ -61,20 +61,26 @@ Estos objetivos son:
 
 ## **Objetivos y KPI's asociados.**
 
-La definición de KPIs está basada en los objetivos propuestos anteriormente. Con esto evaluaremos cual es la situación de Olist en el
-mercado para que, con nuestro conocimientos del sector detectar oportunidades de mejora que sirvan principalmente, para reducir los
-tiempos de entrega.
-Los KPIs que planteamos son los siguientes:
-  + Desvío existente entre tiempos de entrega estimado y reales:
-      Mediremos cual es la diferencia porcentual de estos tiempos y cómo varía en base a la zona geográfica.
-  + Costo por paquete:
-      En logística es muy importante contar con el costo asociado al envío de productos. Se tomarán en cuenta todos los costos de
-      logística asociados al envío de productos y se medirá el valor y su variación a nivel nacional.
-  + Satisfacción del cliente:
-      Se medirá cuál es la satisfacción de los clientes en relación a tiempos de entrega. Esto permitirá entender la relación que
-      existe entre entre el desvío de tiempo de envíos y qué tan satisfecho (o no) está el cliente con su experiencia de compra.
-  + Ingresos / Revenue:
-      Se medirá la evolución de los ingresos y las ventas con el objetivo de pronosticar un crecimiento para el futuro.
+La definición de KPIs está basada en los objetivos propuestos anteriormente. Con esto evaluaremos cuál es la situación de
+Olist en el mercado para que, con nuestro conocimientos del sector detectar oportunidades de mejora que sirvan principalmente,
+para mejorar las prestaciones de la empresa
+
+
+
+ + Obj: Disminuir los tiempos de entrega.
+   Reducir los tiempos de entrega 5% semestral 
+   Tiempo entrega = (Demora real - Demora estimado) / Cantidad de envíos
+
+
+ + Obj: Disminuir las valoraciones negativas de 1 y 2 estrellas
+   Aumentar en una 2% semestral las reviews positivas
+   Reviews positivas 1-2 estrellas = Total de reviews negativas (1 y 2) / Total de usuarios
+
+ + Obj: Aumentar la cantidad de ventas por cliente.
+   Aumentar la cantidad de productos vendidos en un 15% por año
+   Ventas = Cantidad de productos / 365 días (Un año)
+
+   Variaciones anuales (2017, 2018) y periodo total (2017 y 2018)
 
 
 ## **Alcance.**
