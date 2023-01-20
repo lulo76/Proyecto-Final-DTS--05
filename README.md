@@ -68,7 +68,7 @@ para mejorar las prestaciones de la empresa
 
 
  + Obj: Disminuir los tiempos de entrega.
-   Reducir los tiempos de entrega 5% semestral 
+   Reducir los tiempos de entrega 5% semestral.
    Tiempo entrega = (Demora real - Demora estimado) / Cantidad de envíos
 
 
