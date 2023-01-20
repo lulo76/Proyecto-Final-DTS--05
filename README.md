@@ -43,7 +43,7 @@ real en todo el proceso.
 
 ## **Objetivos**
 
-Para este trabajo, se determinarán los siguientes objetivos con el fin de evaluar puntos de mejora de cara a la problemática planteada.
+Para este trabajo, se determinarán los siguientes objet  ivos con el fin de evaluar puntos de mejora de cara a la problemática planteada.
 Estos objetivos son:
  + Relación entre tiempo de entrega estimada versus tiempo de entrega real:
       Se realizará una evaluación sobre cuáles son los motivos fundamentales sobre la diferencia entre ambos con el fin de
@@ -147,15 +147,14 @@ seguimiento de ese progreso utilizando el diagrama. El proyecto esta sujeto a un
 ## **Stack tecnológico.**
 
  + Python.
- + Pandas.
- + Geo Pandas.
  + Machine Learning.
- + Matplotlib.
  + MySQL.
  + Power BI.
+ + AirFlow.
+ + Streamlit.
  + AWS.
- + Github
- + Trello
+ + Github.
+ + Trello.
 
 ## **Entregables**
 
