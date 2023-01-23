@@ -45,7 +45,7 @@ real en todo el proceso.
 
 Para este trabajo, se determinarán los siguientes objet  ivos con el fin de evaluar puntos de mejora de cara a la problemática planteada.
 Estos objetivos son:
- + Relación entre tiempo de entrega estimada versus tiempo de entrega real:
+ + Relación entre tiempo de entrega estimada versus tiempo de entrega real.
       Se realizará una evaluación sobre cuáles son los motivos fundamentales sobre la diferencia entre ambos con el fin de
       identificar potenciales puntos de mejora. Esto nos permitirá determinar qué porcentaje de variación existe entre ambos y se
       analizará la opción de abrir (o no) nuevos centros de distribución.
@@ -65,21 +65,21 @@ La definición de KPIs está basada en los objetivos propuestos anteriormente. C
 Olist en el mercado para que, con nuestro conocimientos del sector detectar oportunidades de mejora que sirvan principalmente,
 para mejorar las prestaciones de la empresa
 
++ Obj: Disminuir los tiempos de entrega.
++ KPI: Reducir los tiempos de entrega en un 5% semestral.
++ Medida: Tiempo de entrega = (Demora real - Demora estimado) / Cantidad de envios.
 
 
- + Obj: Disminuir los tiempos de entrega.
-Reducir los tiempos de entrega 5% semestral.
-Tiempo entrega = (Demora real - Demora estimado) / Cantidad de envíos
++ Obj: Disminuir las valoraciones negativas de 1 y 2 estrellas.
++ KPI: Aumentar en 2% semestral por 3 años las reviews positivas.
++ Medida: Reviews = Total reviews Negativas / Total de usuarios.
 
- + Obj: Disminuir las valoraciones negativas de 1 y 2 estrellas
-Aumentar en una 2% semestral las reviews positivas.
-Reviews positivas 1-2 estrellas = Total de reviews negativas (1 y 2) / Total de usuarios
 
- + Obj: Aumentar la cantidad de ventas por cliente.
-Aumentar la cantidad de productos vendidos en un 15% por año
-Ventas = Cantidad de productos / 365 días (Un año)
++ Obj: Aumentar la cantidad de ventas por cliente.
++ KPI: Aumentar la cantidad de productos vendidos en un 15% anual.
++ Medida: Ventas = Cantidad de productos / 365 dias (1 año)
 
- + Variaciones anuales (2017, 2018) y periodo total (2017 y 2018)
++ Variaciones anuales (2017 - 2018)
 
 
 ## **Alcance.**
