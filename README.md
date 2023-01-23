@@ -73,7 +73,7 @@ para mejorar las prestaciones de la empresa
 
 
  + Obj: Disminuir las valoraciones negativas de 1 y 2 estrellas
-   Aumentar en una 2% semestral las reviews positivas
+   Aumentar en una 2% semestral las reviews positivas.
    Reviews positivas 1-2 estrellas = Total de reviews negativas (1 y 2) / Total de usuarios
 
  + Obj: Aumentar la cantidad de ventas por cliente.
