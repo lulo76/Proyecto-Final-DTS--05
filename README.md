@@ -68,25 +68,18 @@ para mejorar las prestaciones de la empresa
 
 
  + Obj: Disminuir los tiempos de entrega.
- + 
-   Reducir los tiempos de entrega 5% semestral.
-   
-   Tiempo entrega = (Demora real - Demora estimado) / Cantidad de envíos
-
+Reducir los tiempos de entrega 5% semestral.
+Tiempo entrega = (Demora real - Demora estimado) / Cantidad de envíos
 
  + Obj: Disminuir las valoraciones negativas de 1 y 2 estrellas
-   
-   Aumentar en una 2% semestral las reviews positivas.
-   
-   Reviews positivas 1-2 estrellas = Total de reviews negativas (1 y 2) / Total de usuarios
+Aumentar en una 2% semestral las reviews positivas.
+Reviews positivas 1-2 estrellas = Total de reviews negativas (1 y 2) / Total de usuarios
 
  + Obj: Aumentar la cantidad de ventas por cliente.
-   
-   Aumentar la cantidad de productos vendidos en un 15% por año
-   
-   Ventas = Cantidad de productos / 365 días (Un año)
+Aumentar la cantidad de productos vendidos en un 15% por año
+Ventas = Cantidad de productos / 365 días (Un año)
 
-   Variaciones anuales (2017, 2018) y periodo total (2017 y 2018)
+ + Variaciones anuales (2017, 2018) y periodo total (2017 y 2018)
 
 
 ## **Alcance.**
