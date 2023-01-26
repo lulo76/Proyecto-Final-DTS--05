@@ -49,9 +49,6 @@ Estos objetivos son:
       Se realizará una evaluación sobre cuáles son los motivos fundamentales sobre la diferencia entre ambos con el fin de
       identificar potenciales puntos de mejora. Esto nos permitirá determinar qué porcentaje de variación existe entre ambos y se
       analizará la opción de abrir (o no) nuevos centros de distribución.
- + Determinación de costos logísticos:
-    Se espera determinar cuales son los costos que están relacionados a la entrega de producto  entendiendo el impacto que los mismos
-    tienen a nivel nacional.
  + Evaluar la satisfacción del cliente en referencia a tiempos de entrega:
     Se espera determinar el porcentaje de clientes actuales que están desconformes con el servicio prestado.
  + Pronóstico de evolución/crecimiento de Olist para Brasil:
