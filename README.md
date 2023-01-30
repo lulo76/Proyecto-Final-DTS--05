@@ -31,13 +31,13 @@ venta en línea. Para aquellos que compran, Olist es una garantía adicional de 
 que cuenta con miles de inquilinos rigurosamente seleccionados y que operan dentro de altos estándares de requisitos operativos.
 
 
-## **Problemática.**
+## **Problemática - Necesidad**
 
 El equipo de Marketing y Ventas de Olist busca nuevas maneras de lograr un crecimiento y expansión en el uso de su plataforma.
 En base a su análisis preliminar, han detectado que el tiempo de entrega de los productos tiene un gran impacto en todo el ciclo
 compra-entrega, desde la utilización de la plataforma por parte de los vendedores hasta la recepción de la mercadería  parte de
 los clientes. 
-Es por este motivo que Olist nos han contratado  como un grupo de consultores con el fin de evaluar el  impacto del delivery time
+Es por este motivo que Olist nos han contratado  como un grupo de consultores con el fin de evaluar el  impacto del "Delivery-Time"
 real en todo el proceso.
 
 
@@ -49,8 +49,8 @@ Estos objetivos son:
       Se realizará una evaluación sobre cuáles son los motivos fundamentales sobre la diferencia entre ambos con el fin de
       identificar potenciales puntos de mejora. Esto nos permitirá determinar qué porcentaje de variación existe entre ambos y se
       analizará la opción de abrir (o no) nuevos centros de distribución.
- + Evaluar la satisfacción del cliente en referencia a tiempos de entrega:
-    Se espera determinar el porcentaje de clientes actuales que están desconformes con el servicio prestado.
+ + Evaluar la satisfacción del comprador en referencia a su experiencia de compra:
+    Se espera determinar el porcentaje de clientes actuales que están desconformes.
  + Pronóstico de evolución/crecimiento de Olist para Brasil:
     Se espera determinar la evolución a lo largo del tiempo con el fin de estimar una proyección en base a situación actual en contraste
     con las ideas de mejora que se plantearán (resultado del análisis).
