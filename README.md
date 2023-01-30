@@ -184,4 +184,4 @@ podrá brindar soporte en diversas áreas y/o tareas durante todo el proceso.***
 
 Para análisis preliminar de los datos en relación a la problemática decidimos utilizar como fuente principal los datasets provistos. Para un análisis más detallado en el anexo “Análisis preliminar” encontrarán información más precisa de los tipos de datos que utilizaremos como insumo principal, el estado en el que nos llegan y posibles modificaciones rápidas. Sin embargo no descartamos ampliar a futuro con información complementaria para enriquecer el análisis posterior y cubrir demandas del cliente. 
 
-El Diagrama Entidad-Relación está disponible en este  [Diagrama Entidad-Relación](https://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/Diagrama%20ER.jpg)
+El Diagrama Entidad-Relación está disponible en este  [Diagrama Entidad-Relación](hhttps://github.com/lulo76/Proyecto-Final-DTS--05/blob/main/Assets/der_actual.png)
