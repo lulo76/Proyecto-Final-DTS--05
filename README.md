@@ -41,7 +41,7 @@ Es por este motivo que Olist nos han contratado  como un grupo de consultores co
 real en todo el proceso.
 
 
-## **Objetivos**
+## **Objetivos - Necesidades**
 
 Para este trabajo, se determinarán los siguientes objetivos con el fin de evaluar puntos de mejora de cara a la problemática planteada.
 Estos objetivos son:
